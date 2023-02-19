@@ -1,0 +1,31 @@
+
+@media screen and (max-width:600px){
+    body{
+        color: gold;
+        background-color: blue;
+    }
+}
+@media screen and (max-width:700px){
+    body{
+        color: white;
+        text-shadow: 0 -5px 15px green;
+        background-color: yellow;}
+}
+@media screen and (max-width:800px){
+    body{
+        color: white;
+        text-shadow: 0 -5px 15px green;
+        background-color: red;}
+}
+@media screen and (max-width:900px){
+    body{
+        color: white;
+        text-shadow: 0 -5px 15px green;
+        background-color: gold;}
+}
+@media screen and (max-width:1000px){
+    body{
+        color: white;
+        text-shadow: 0 -5px 15px green;
+        background-color: pink;}
+}

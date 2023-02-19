@@ -1,0 +1,48 @@
+*{
+    
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    width: 100%;
+    height: 180vh;
+    border: solid 2px black;
+}
+
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: lightblue;
+    border: solid 2px black;
+    display: grid;
+    grid-template-columns: 3fr 1fr ;
+    text-align: center;
+}
+.section{
+    width: 100%;
+    height: 600px;
+    background-color: mediumvioletred;
+    margin-top: 40px;
+   
+}
+.cource{
+    display: grid;
+    grid-template-columns: 1fr ;
+    margin: 100px;
+}
+.foot{
+    
+    width: 100%;
+    height: 150px;
+    background-color: lightblue;
+    border: solid 2px black;
+}
+.one{
+    display:grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr ;
+    text-align: right;
+}
+.cr{
+    text-align: center;;
+}
